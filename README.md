@@ -1,11 +1,11 @@
-# 📲 WhatsApp-Driven Google Drive Assistant (n8n Workflow)
+# WhatsApp-Driven Google Drive Assistant (n8n Workflow)
 
-## 📌 Objective
+##  Objective
 A no-code/low-code automation system using `n8n` that connects **WhatsApp** messages to **Google Drive** actions via commands.
 
 ---
 
-## 🧩 Features
+## Features
 
 - List files in a specific Drive folder
 - Delete/move a file from one folder to another
@@ -15,7 +15,7 @@ A no-code/low-code automation system using `n8n` that connects **WhatsApp** mess
 
 ---
 
-## 🧪 Example WhatsApp Commands
+##  Example WhatsApp Commands
 
 | Command                         | Description                                      |
 |----------------------------------|--------------------------------------------------|
@@ -26,7 +26,7 @@ A no-code/low-code automation system using `n8n` that connects **WhatsApp** mess
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - `n8n` (workflow automation)
 - `Twilio` (WhatsApp entry point)
@@ -36,11 +36,11 @@ A no-code/low-code automation system using `n8n` that connects **WhatsApp** mess
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-gdrive-assistant.git
+git clone https://github.com/Deepak1804322/whatsapp-gdrive-assistant.git
 cd whatsapp-gdrive-assistant
 
